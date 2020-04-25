@@ -1,1 +1,1 @@
-# Unconditional GAN on Fashion-MNIST dataset
+# Few implementations of Generative Adversial Network
